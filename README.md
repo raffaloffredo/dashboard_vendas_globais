@@ -25,7 +25,7 @@ Além disso, foi solicitado que o dashboard tivesse a funcionalidade de filtro: 
 ## Material Extra
 Os dados utilizados nesse projeto também estão disponíveis para download.
 
-* **[Dataset de Vendas Globais)](https://github.com/raffaloffredo/dashboard_vendas_globais/blob/main/dataset_vendas_globais.csv)**
+* **[Dataset de Vendas Globais](https://github.com/raffaloffredo/dashboard_vendas_globais/blob/main/dataset_vendas_globais.csv)**
 <br/>
 
 ## Outros projetos
